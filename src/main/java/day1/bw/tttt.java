@@ -6,7 +6,7 @@ public class tttt {
 		// TODO Auto-generated method stub
 		//nnnnmmm
 			System.out.println("123");
-			System.out.println("三生三世十里桃花");
+			System.out.println("涓夌敓涓変笘鍗侀噷妗冭姳");
 	}
 
 }
